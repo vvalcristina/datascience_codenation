@@ -1,0 +1,6 @@
+canal_venda;acessos;site;vendas;lista;categoria_vendas;categoria_acessos
+facebook;100;site1;1000,52;200;0 a 1500;menor_que_300
+twitter;200;site1;1052,34;200;0 a 1500;menor_que_300
+instagram;300;site2;2002,0;300;2000 a 8000;menor_que_300
+linkedin;400;site2;5000,0;800;2000 a 8000;maior_que_300
+facebook;500;site3;300,0;200;0 a 1500;maior_que_300
