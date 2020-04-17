@@ -4,7 +4,7 @@ import streamlit as st
 def main():
 
     #Titulo
-    st.title("Hello Valéria Imperatriz do 41")
+    st.title("Hello World")
 
     #Criando um botão
     st.markdown('Botao')
