@@ -1,5 +1,5 @@
-# aceleradev_semana2
+# Codenation - AcelaraDev DataScience
 
-**Manipulação de Dados**
+**Repositório dedicado as atividades do AceleraDev DataScience
 
-Semana 2 do Acelera Dev Data Science: Python, Pandas e Numpy
+**Semana 2: Manipulação de dados**: Manipulação de dados com python utilizando pandas e numpy. Introdução a API streamlit. Desafio de Pré-processamento de dados.
