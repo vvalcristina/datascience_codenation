@@ -8,4 +8,4 @@ Repositório dedicado as atividades do AceleraDev DataScience
 
 **Semana 2: Manipulação de dados**: Manipulação de dados com python utilizando pandas e numpy. Introdução a API streamlit. Desafio de Pré-processamento de dados.
 
-**Semana 3: Análise Exploratória**: Análise de dados utilizando o dataset (https://www.kaggle.com/rubenssjr/brasilian-houses-to-rent) do Kaggle aplicando conceitos de estatística
+**Semana 3: Análise Exploratória**: Análise de dados aplicando conceitos de estatística univariada e multivariada com base de dados do Kaggle.
