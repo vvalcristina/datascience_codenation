@@ -57,6 +57,7 @@ def main():
 
         # Filtrando colunas tipo float e retorno tipo nomes
         st.markdown('**Nomes das colunas do tipo float64:**')
+        st.markdown('**Nomes das colunas do tipo float64:**')
         st.markdown(list(exploracao[exploracao['tipos'] == 'float64']['nomes']))
 
         # Filtro colunas objects e retorno nomes
