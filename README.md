@@ -26,6 +26,5 @@ Repositório dedicado as atividades do AceleraDev DataScience
 *  pip install -r requirements.txt
 
 
-![download (1)](https://user-images.githubusercontent.com/52939036/80925621-b8cfde80-8d67-11ea-935d-12ff9bf7c8c0.jpeg)
 
-
+![social-image](https://user-images.githubusercontent.com/52939036/81510437-0e683600-92e8-11ea-8cfc-48e266dabc5f.png)
