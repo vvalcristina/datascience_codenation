@@ -14,6 +14,14 @@ Repositório dedicado as atividades do AceleraDev DataScience
 
 **Semana 5: Pensamento Estatístico em Python**: Hipóteses, teorema do limite central e testes de hipóteses
 
+**Semana 6: Contiuação do Pensamento Estatístico em Python**: Hipóteses, teorema do limite central e testes de hipóteses
+
+**Semana 7: Engenharia de Features**: Capturar as informações das variáveis categóricas e transformá-las em números.
+
+**Semana 8: Regressão**: Regressão linear, métricas de performance da regressão, estrutura de projeto, algoritmos de regressão. Desafio de prever a nota de matemática do Enem 2016.
+
+**Semana 9: Classificação**: Problema de classificação, matriz de confusão, balanceamento dos dados (SMOTE), algoritmos de classificação, Tensor Flow, QWikLabs. Desafio de prever quem era treineiro no Enem 2016. 
+
 
 ### Como rodar esse projeto:
 
