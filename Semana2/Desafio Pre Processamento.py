@@ -21,7 +21,7 @@ import numpy as np
 # In[2]:
 
 
-black_friday = pd.read_csv("black_friday.csv")
+black_friday = pd.read_csv("data/black_friday.csv")
 
 
 # ## Inicie sua análise a partir daqui
