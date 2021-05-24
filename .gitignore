@@ -9,4 +9,5 @@ Semana8/.ipynb_checkpoints
 datascience/
 .ipynb_checkpoints/*
 .idea/*
+__pycache__/
 
