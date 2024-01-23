@@ -17,7 +17,7 @@ defusedxml==0.6.0
 docutils==0.15.2
 entrypoints==0.3
 enum-compat==0.0.3
-future==0.18.2
+future==0.18.3
 idna==2.9
 ipykernel==5.2.1
 ipython==8.10.0
